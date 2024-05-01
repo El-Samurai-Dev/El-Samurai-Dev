@@ -42,7 +42,7 @@ Se você tiver sugestões, dicas ou oportunidades de colaboração, sinta-se à 
 <div> 
 <a href="https://www.instagram.com/elsamurai_horda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:nevesdanilo290@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "nevesdanilo290@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>&nbsp;&nbsp;
  
