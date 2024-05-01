@@ -1,6 +1,12 @@
-# Olá, eu sou El-Samurai-Dev! 👋
+<img src="https://github.com/El-Samurai-Dev/imagemgithub/blob/main/github2.png" min-width="300px" max-width="1400px" width="1400px" height="250" align="center" alt="Computador iuriCode">
+
+
+# <ins>Olá, eu sou El-Samurai-Dev!</ins> 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, e estou no início da minha jornada de aprendizado em programação. Tenho interesse em Python, HTML, CSS e JavaScript, e estou sempre buscando aprender mais sobre essas tecnologias e expandir minhas habilidades.
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Sobre mim
 
