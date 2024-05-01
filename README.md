@@ -37,7 +37,18 @@ Aqui estão alguns projetos que estou trabalhando ou já concluí:
 
 Se você tiver sugestões, dicas ou oportunidades de colaboração, sinta-se à vontade para entrar em contato comigo! Estou sempre aberto a novas ideias e oportunidades de aprendizado.
 
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/elsamurai_horda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:nevesdanilo290@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+</div>&nbsp;&nbsp;
+ 
+
 ## Agradecimentos
 
 Gostaria de agradecer a todos que me ajudaram e continuam me apoiando nesta jornada de aprendizado em programação.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
