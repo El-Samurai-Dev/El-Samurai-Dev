@@ -19,8 +19,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, e estou no início da m
 
 Aqui estão alguns projetos que estou trabalhando ou já concluí:
 
-- [Projeto 1](link_para_o_projeto1): Breve descrição do projeto.
-- [Projeto 2](link_para_o_projeto2): Breve descrição do projeto.
+- [Projeto 1](link_para_o_projeto1): em Breve!
 
 ## Objetivos
 
