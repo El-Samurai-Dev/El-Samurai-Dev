@@ -37,7 +37,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, e estou no início da m
 
 Aqui estão alguns projetos que estou trabalhando ou já concluí:
 
-- [Projeto 1](link_para_o_projeto1): em Breve!
+- [Projeto 1](https://el-samurai-dev.github.io/gerenciamento-de-gasto/): projeto simples de gerenciamento de gastos(BETA)!
 
 ## Objetivos
 
